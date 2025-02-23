@@ -14,8 +14,8 @@ Key Features 🌟
 
 Tech Stack 🛠️
 
-Backend: Java, Spring Boot
+-> Backend: Java, Spring Boot
 
-Database: MySQL
+-> Database: MySQL
 
-Tools: Postman for API testing
+-> Tools: Postman for API testing
